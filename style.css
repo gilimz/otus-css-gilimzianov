@@ -53,10 +53,10 @@ body {
   max-height: 630px;
   margin: 0 auto;
   padding: 10%;
-  background-color: aliceblue;
+  background-color: white;
 }
 .inside {
-  background: url(./img/inside-weather-Uxqlfigh6oE-unsplash\ 1.jpg);
+  /* background: url(./img/inside-weather-Uxqlfigh6oE-unsplash\ 1.jpg); */
 }
 .right {
   text-align: right;
