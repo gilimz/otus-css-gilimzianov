@@ -50,8 +50,10 @@ body {
 }
 .wrap {
   max-width: 1440px;
+  max-height: 630px;
   margin: 0 auto;
   padding: 10%;
+  background-color: aliceblue;
 }
 .inside {
   background: url(./img/inside-weather-Uxqlfigh6oE-unsplash\ 1.jpg);
