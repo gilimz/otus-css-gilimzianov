@@ -49,8 +49,6 @@ body {
   font-style: normal;
 }
 .wrap {
-  max-width: 1440px;
-  max-height: 630px;
   margin: 0 auto;
   padding: 10%;
   background-color: white;
