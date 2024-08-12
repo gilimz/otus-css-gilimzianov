@@ -52,6 +52,8 @@ body {
   margin: 0 auto;
   padding: 10%;
   background-color: white;
+  height: 50%;
+  width: 50%;
 }
 .inside {
   background: url(./img/inside-weather-Uxqlfigh6oE-unsplash\ 1.jpg);
