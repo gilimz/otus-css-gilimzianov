@@ -50,13 +50,16 @@ body {
 }
 .wrap {
   margin: 0 auto;
-  padding: 10%;
+  padding: 5% 5%;
   background-color: white;
   height: 25%;
   width: 25%;
 }
 .inside {
   background: url(./img/inside-weather-Uxqlfigh6oE-unsplash\ 1.jpg);
+  height: 630px;
+  width: 1440px;
+  
 }
 .right {
   text-align: right;
