@@ -52,8 +52,8 @@ body {
   margin: 0 auto;
   padding: 5% 5%;
   background-color: white;
-  height: 25%;
-  width: 25%;
+  /* height: 25%;
+  width: 25%; */
 }
 .inside {
   background: url(./img/inside-weather-Uxqlfigh6oE-unsplash\ 1.jpg);
@@ -66,4 +66,8 @@ body {
 }
 .center {
   text-align: center;
+}
+.katyamills {
+  display: flex;
+  justify-content: flex-end;
 }
